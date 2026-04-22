@@ -1,7 +1,7 @@
 ## Ariel Rodriguez · arirod92
 
 **SysAdmin Linux/Windows | Security & Infrastructure | DevSecOps in progress**  
-📍 Buenos Aires, Argentina · 🌐 Full Remote
+📍 Buenos Aires, Argentina · 🌐 Full Remote / Hybrid
 
 ---
 
