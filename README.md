@@ -5,7 +5,7 @@
 
 ---
 
-### 👨‍💻 About me / Sobre mí
+### 👨‍💻 About me
 
 IT professional with 10+ years of experience across financial, aeronautical and tech sectors.  
 My day-to-day crosses Linux/Windows systems administration, security operations and IAM — with hands-on production experience in critical environments.  
@@ -40,8 +40,8 @@ Currently in an intentional transition toward DevSecOps: building CI/CD pipeline
 
 | Repo | Description | Stack | Status |
 |------|-------------|-------|--------|
-| `sysadmin-scripts` | PowerShell & Bash scripts for AD, M365 and infrastructure automation | PowerShell · Bash | 🔧 In progress |
-| `mix-mentor` | AI-powered mentor for music production and mixing | Python · CI/CD | 🔒 Private (MVP) |
+| [`sysadmin-scripts`](https://github.com/arirod92/sysadmin-scripts) | PowerShell scripts for AD, M365 and API integrations — built and used in production | PowerShell | ✅ Public |
+| `mix-mentor` | AI-powered mentor for music production, mixing & mastering | Python · CI/CD | 🔒 Private (MVP) |
 | `mis-factory` | Multi-agent software factory with AI orchestration | Python | 🔒 Private |
 
 ---
